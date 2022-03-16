@@ -1,0 +1,20 @@
+/*body{
+    background-color: antiquewhite;
+}*/
+
+table {
+    border: 1px solid black;
+}
+td{
+    border: 1px dotted black;
+}
+
+table tr:nth-child(even){
+    background-color:pink;
+}
+
+.formazas{
+    border: 2px dashed purple;
+    font-size: 20px;
+    background-color: brown;
+}
